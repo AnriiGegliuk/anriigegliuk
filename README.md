@@ -1,5 +1,7 @@
 ### Hi there 👋👋👋
 
+![](https://komarev.com/ghpvc/?username=andriigegliuk&label=PROFILE+VIEWS)
+
 <!--
 **AndriiGegliuk/andriigegliuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
