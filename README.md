@@ -18,13 +18,11 @@
    
  <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anriigegliuk&theme=github-compact)](https://github.com/anriigegliuk/github-readme-activity-graph)
-
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![anriigegliuk's github stats](https://github-readme-stats.vercel.app/api?username=anriigegliuk&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anriigegliuk&theme=radical&layout=compact) |
+[![anriigegliuk's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anriigegliuk&theme=github-compact)](https://github.com/anriigegliuk/github-readme-activity-graph)
 
 
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
 
 
 
