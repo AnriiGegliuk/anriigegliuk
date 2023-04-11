@@ -36,10 +36,12 @@
 <a href="https://skyline.github.com/anriigegliuk/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 -->
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anriigegliuk"/>
+<!--
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anriigegliuk&layout=compact"/>
-<!--
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anriigegliuk"/>
+
+
 
 
 **AndriiGegliuk/andriigegliuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
