@@ -26,23 +26,10 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anriigegliuk"></img>
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!--   grid-snake -->
-![](https://github.com/anriigegliuk/anriigegliuk/blob/output/github-contribution-grid-snake.svg)
 
-<!--   skyline 
-<a href="https://skyline.github.com/anriigegliuk/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anriigegliuk"/>
 <!--
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anriigegliuk&layout=compact"/>
-
-
-
 
 **AndriiGegliuk/andriigegliuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
