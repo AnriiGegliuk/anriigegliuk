@@ -36,12 +36,8 @@
 <a href="https://skyline.github.com/anriigegliuk/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 -->
 
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=anriigegliuk&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
 
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anriigegliuk&layout=compact"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anriigegliuk"/>
 
