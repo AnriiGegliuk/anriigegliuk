@@ -7,7 +7,7 @@
 
    <!--machine-learning-->
 ```mermaid
-graph TD;
+     graph TD;
     machine-learning-->Data;
     machine-learning-->Algorithms;
     machine-learning-->Statistical-Models;
