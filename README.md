@@ -1,6 +1,5 @@
 ### Hi there 👋👋👋
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=AnriiGegliuk)](https://github.com/AnriiGegliuk)
 
 ![](https://komarev.com/ghpvc/?username=andriigegliuk&label=PROFILE+VIEWS)
 
