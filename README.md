@@ -10,12 +10,12 @@
    <!--Machine-Learning-->
 ````mermaid
      graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
+    Machine-learning-->Data;
+    Machine-learning-->Algorithms;
+    Machine-learning-->Statistical-Models;
+    Machine-learning-->Feature-Engineering;
+    Machine-learning-->Evaluation-Metrics;
+    Machine-learning-->Deployment;
    ````
 
 <!--
