@@ -17,6 +17,22 @@
     Machine-learning-->Evaluation-Metrics;
     Machine-learning-->Deployment;
    ````
+   
+   
+     <!--Machine-Learning-->
+````mermaid
+     graph TD;
+    Machine-Learning-->Supervised;
+    Machine-Learning-->Unsupervised;
+    Supervised-->Regression;
+    Supervised-->Classification;
+    Supervised-->Time-Series-Forecasting;
+    Supervised-->Ensemble-Methods;
+    Unsupervised-->Clustering;
+    Unsupervised-->Dimensionality-Reduction;
+    Unsupervised-->Anomaly-Detection;
+    Unsupervised-->Anomaly-Detection;
+    ````
 
 <!--
 
