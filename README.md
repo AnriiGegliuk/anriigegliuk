@@ -5,21 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=andriigegliuk&label=PROFILE+VIEWS)
 
-
-
-   <!--Machine-Learning-->
-````mermaid
-     graph TD;
-    Machine-learning-->Data;
-    Machine-learning-->Algorithms;
-    Machine-learning-->Statistical-Models;
-    Machine-learning-->Feature-Engineering;
-    Machine-learning-->Evaluation-Metrics;
-    Machine-learning-->Deployment;
-   ````
-   
-   
-
+  
 
 <!--
 
