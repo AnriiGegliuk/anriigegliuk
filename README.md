@@ -1,5 +1,5 @@
 
-![github-header-image (1)](https://github.com/AnriiGegliuk/anriigegliuk/assets/120349975/98a7e913-953e-4a7d-b18e-2fdff6e148d2)
+Hi there 👋👋👋
 
 
 
