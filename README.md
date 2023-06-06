@@ -1,6 +1,5 @@
-![Header](./your-header-image-name.png)
+![github-header-image](https://github.com/AnriiGegliuk/anriigegliuk/assets/120349975/798002bb-3d1a-434e-af08-5aab315b1e5b)
 
-### Hi there 👋👋👋
 
 
 
