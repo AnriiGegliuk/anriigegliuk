@@ -1,6 +1,5 @@
-![github-header-image](https://github.com/AnriiGegliuk/anriigegliuk/assets/120349975/798002bb-3d1a-434e-af08-5aab315b1e5b)
 
-
+![github-header-image (1)](https://github.com/AnriiGegliuk/anriigegliuk/assets/120349975/98a7e913-953e-4a7d-b18e-2fdff6e148d2)
 
 
 
