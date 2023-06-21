@@ -5,29 +5,6 @@ Hi there 👋👋👋👋
 
 ![](https://komarev.com/ghpvc/?username=andriigegliuk&label=PROFILE+VIEWS)
 
-from flask import Flask, render_template
-```
-app = Flask(__name__)
-
-@app.route('/')
-def home():
-    user = {
-        'name': 'Andrii',
-        'lives': 'Tokyo, Japan',
-        'job': 'Data Scientist',
-        'skills': 'Python, Machine Learning, Data Analysis, Statistical Modelling',
-        'languages': 'English, Portuguese, Ukrainian',
-        'fun_fact': 'I am an avid reader and can read in multiple languages.',
-        'likes': ['📚', '🗣️', '💻', '🔬', '📊', '🥾', '🚲', '✈️']
-    }
-```
-```
-    return render_template```([index.html](https://andriig.pythonanywhere.com/), ```user=user)```
-```
-```
-if __name__ == '__main__':
-    app.run(debug=True)
-```
 
 <!--
 
