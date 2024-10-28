@@ -6,7 +6,9 @@ Hi there 👋
 ![](https://komarev.com/ghpvc/?username=andriigegliuk&label=PROFILE+VIEWS)
 
 
-<a href="mailto:andrii.gegliuk@gmail.com">Email Me</a>
+<a href="mailto:andrii.gegliuk@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Email Me via Gmail">
+</a>
 
 
 <!--
