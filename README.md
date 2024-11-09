@@ -1,7 +1,7 @@
 
 Hi there 👋
 
-#🥚🐣🐥
+<p style="font-size: 50px;">🥚 🐣 🐥</p>
 
 ![](https://komarev.com/ghpvc/?username=andriigegliuk&label=PROFILE+VIEWS)
 
